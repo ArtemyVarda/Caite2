@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+.img_fon img{
+    width: 100%;
+    height: 100%;
+   
+}
+.img_fon img:last-child{
+    margin-top: -100%;
+    height: 660px;
+}
+header{
+    position: relative;
+}
+.img_fon{
+    position: absolute;
+    z-index: -5;
+}
+.logo{
+    color: black;
+}
