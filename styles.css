@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lekton:wght@700&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -25,4 +26,64 @@ header{
 }
 .logo{
     color: black;
+}
+.wel{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    color: white;
+    font-size: 34px;
+    font-family: 'Lekton', sans-serif;
+    padding-top: 30px;
+}
+.lin{
+    font-family: "Inter", sans-serif;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    padding-top: 35px;
+    margin-left: 25px;
+}
+.lin1{
+    padding-top: 35px;
+}
+.btn{
+    width: 140px;
+    height: 42px;
+    background: rgba(255, 253, 253, 0.45);
+    position: relative;
+    margin-top: 37px;
+    border-radius: 21px;
+}
+.word{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 20px;
+    padding-top: 12px;
+}
+.big{
+    padding-top: 32%;
+    font-size:100px ;
+    font-family: "Lecton", sans-serif;
+
+}
+.smalltext{
+    font-size: 16px;
+    color: #425466;
+    margin: 20px 0 40px ;
+}
+.btn1{
+    width: 230px;
+    height: 52px;
+    background: #231A36;
+    padding: 17px 35px;
+    color: white;
+    text-decoration: none;
+    border-radius:21px ;
+}
+.pic{
+    margin-bottom: 30%;
+    z-index: 5;
 }
