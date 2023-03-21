@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lekton:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -72,7 +74,7 @@ header{
 .smalltext{
     font-size: 16px;
     color: #425466;
-    margin: 20px 0 40px ;
+    margin: 20px 0 30px ;
 }
 .btn1{
     width: 230px;
@@ -110,4 +112,123 @@ header{
 .p6{
     margin-top: -31%;
     padding-left: 1170px;
+}
+.centre {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #B2B7BE;
+    margin: 100px 0 0 0;
+}
+.spon{
+    font-family: 'Lato', sans-serif;
+    font-size: 35px;
+    color: #B2B7BE;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.up{
+    text-align: center;
+}
+.up1{
+    font-family: 'Poppins', sans-serif;
+}
+.opperations{
+    margin-top: 100px;
+}
+.down_card{
+    width: 351px;
+    height: 210px;
+    margin-left: 350px;
+    margin-top: 150px;
+}
+.color_text{
+    color: #B33CDB;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+}
+.down1{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.btn2{
+    text-decoration: none;
+    color: #42424A;
+    font-size: 15px;
+}
+.sss{
+    margin-top: -80%;
+    padding-left: 400px;
+}
+.color_text2{
+    color: rgb(214, 214, 50);
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+}
+.color_text3{
+    color: deeppink;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+}
+.ss img{
+    padding-right: 500px;
+}
+.card2{
+    padding-left: 700px;
+    margin-top: -10%;
+   
+}
+.ss{
+    position: absolute;
+    padding-left: 15%;
+    margin-top: -2%;
+}
+.s{
+    position: relative;
+    padding-left: 31%;
+    padding-top: 5%;
+}
+.fon{
+    background: #231A36;
+    width: 100%;
+    height: 590px;
+    padding-top: 100px;
+    position: absolute;
+}
+.rundomtext{
+    position: relative;
+}
+.rundm{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 120px;
+}
+.smalltext_center{
+    font-size: 16px;
+    color: #425466;
+    margin: 20px 0 30px ;
+    text-align: center;
+}
+.nam{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 40px;
+    padding-left: 500px;
+    padding-right: 500px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.smalltext3{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 500px;
+    padding-right: 530px;
+}
+.smalltext3:not(:first-child){
+    padding-left: 26%;
 }
