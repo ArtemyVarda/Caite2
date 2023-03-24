@@ -136,7 +136,7 @@ header{
     font-family: 'Poppins', sans-serif;
 }
 .opperations{
-    margin-top: 100px;
+     margin-top: 100px;
 }
 .down_card{
     width: 351px;
@@ -232,4 +232,61 @@ header{
 .smalltext3:not(:first-child){
     padding-left: 26%;
 }
+.Blackfon{
+    margin: 150px 0 300px 0;
+}
+.uppers{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.cardspic{
+    width: 272px;
+    height: 170px;
+    color: white;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: -80px;
+    background: white;
+}
+.smallzag{
+    font-size: 16px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 0 10px;
+}
+.Nummers{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    padding-right: 61px;
+}
+.folow{
+    display: flex;
+    justify-content: space-between;
+    color:#B2B7BE ;
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+    padding-right: 61px;
+    padding: 8px 0 15px;
 
+}
+.btn3{
+    text-decoration: none;
+    color: #B33CDB;
+}
+.mens_pic{
+    margin-left: 25px;
+}
+.Mens2{
+    margin-left: 495px;
+    margin-top: -304px;
+}
+.Mens3{
+    margin-left: 880px;
+    margin-top: -304px;
+}
+.Mens{
+    margin-left: 110px;
+}
