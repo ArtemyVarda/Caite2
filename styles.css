@@ -291,3 +291,193 @@ header{
 .Mens{
     margin-left: 110px;
 }
+.uppers1{
+    text-align: center;
+    margin-top: 200px;
+}
+.fon2{
+    background: linear-gradient(209.43deg, #9E2692 12.36%, #FAA958 89.4%);
+    width: 62px;
+    height: 62px;
+    border-radius: 50px;
+    position: relative;
+}
+.F{
+    font-size: 30px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-top: -54px;
+    margin-left: 22px;
+    position: absolute;
+    z-index: 500;
+}
+.obx{
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50px;
+    position: relative;
+    margin-top: -55px;
+    margin-left: 6px;
+}
+.obx2{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background:linear-gradient(209.43deg, #9E2692 12.36%, #FAA958 89.4%); 
+    position: absolute;
+    margin-top: -48px;
+    margin-left: 8px;
+}
+.cont{
+    width: 1000px;
+    margin: 0 auto;
+}
+.names{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+}
+.arrow1{
+    width: 29px;
+    height: 29px;
+    box-shadow: 0 0 3px black;
+    font-size: 20px;
+    padding-left: 8px;
+    padding-top: 2px;
+    margin-left: 400px;
+    margin-top: -1%;
+}
+.smalltext5{
+    font-size: 22px;
+    margin: 50px 0 40px;
+    color: #6D6D6D;
+    font-family: 'Inter', sans-serif;
+}
+.arrow2{
+    width: 29px;
+    height: 29px;
+    box-shadow: 0 0 3px black;
+    font-size: 20px;
+    padding-left: 9px;
+    padding-top: 2px;
+    margin-left: 440px;
+    margin-top: -29px ;
+}
+.veb{
+    margin-left: 700px;
+    position: absolute;
+    margin-top: -350px;
+}
+.men{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -380px;
+}
+.liniz{
+    width: 254px;
+    height: 3px;
+    background: #2B76AC;
+    position: absolute;
+    margin-left: 790px;
+    margin-top: 94px;
+}
+.v1{
+    padding: 0 0 90px 0;
+    margin-top: -100px;
+}
+.gradi img{
+    width: 976px;
+    margin-left: 500px;
+    position: relative;
+    border-radius: 20px;
+}
+.g1{
+    margin-top: 230px;
+}
+.pram{
+    position: absolute;
+}
+.g2{
+    margin-top: -100%;
+    position: absolute;
+    z-index: -3px;
+}
+.fonner{
+    width: 975px;
+    background: linear-gradient(264.7deg, #E37777 6.83%, #F2554C 42.09%, #FEC458 64.55%, #FEC957 86.42%, #DB788D 101.5%);
+    height: 170px;
+    margin-top: -166px;
+    position: absolute;
+    margin-left: 500px;
+    z-index: -5;
+    border-radius: 0 0 12px 12px;
+}
+.radius{
+    width: 976px;
+    height: 130px;
+}
+.last_btn {
+    width: 230px;
+    height: 52px;
+    background: #231A36;
+    padding: 17px 35px;
+    color: white;
+    text-decoration: none;
+    border-radius:21px ;
+}
+.pram{
+    text-align: center;
+    margin-top: 440px;
+    padding-left: 730px;
+    z-index: 6666;
+}
+.smalltt{
+    font-size: 16px;
+    color: #FFFFFFD4;
+    font-family: 'Inter',sans-serif;
+    margin: 20px 0 50px 0;
+}
+.up4{
+    font-size: 50px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.lin105{
+    font-family: "Inter", sans-serif;
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    padding-top: 35px;
+    margin-left: 25px;
+}
+.logo1{
+    color: black;
+    font-size: 34px;
+    font-family: 'Lekton', sans-serif;
+    margin-top: 10px;
+}
+.start{
+    display: flex;
+    justify-content: space-between;
+    width: 950px;
+    margin-left: 500px;
+    margin-top: 60px;
+
+}
+.pril img{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.linnneers{
+    width: 975px;
+    height: 2px;
+    background: #E3E3EA;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.finish{
+    font-size: 16px;
+    text-align: center;
+    color: #a1a0a0d4;
+    margin: 20px 0 20px 0;
+}
