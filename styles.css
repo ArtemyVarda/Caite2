@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 .container{
     width: 1400px;
@@ -37,7 +38,8 @@ header{
     color: white;
     font-size: 34px;
     font-family: 'Lekton', sans-serif;
-    padding-top: 30px;
+    padding-top: 25px;
+    text-decoration: none;
 }
 .lin{
     font-family: "Inter", sans-serif;
@@ -46,9 +48,17 @@ header{
     text-decoration: none;
     padding-top: 35px;
     margin-left: 25px;
+    position: relative;
+}
+.lin44{
+    color: white;
+    margin-left: -90px;
+    position: absolute;
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
 }
 .lin1{
-    padding-top: 35px;
+    padding-top: 48px;
 }
 .btn{
     width: 140px;
@@ -69,7 +79,10 @@ header{
     padding-top: 32%;
     font-size:100px ;
     font-family: "Lecton", sans-serif;
-
+    background-image: linear-gradient(96.46deg, #C87C00 3.72%, #8B3208 31.05%, rgba(83, 32, 15, 0.82) 68.54%, #010420 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    
 }
 .smalltext{
     font-size: 16px;
@@ -128,7 +141,10 @@ header{
     justify-content: space-between;
     margin-top: 30px;
 }
-
+.spon:hover{
+    color: #42424A;
+    transition: all .2s linear;
+}
 .up{
     text-align: center;
 }
@@ -240,7 +256,7 @@ header{
     margin-bottom: 100px;
 }
 .cardspic{
-    width: 272px;
+    width: 290px;
     height: 170px;
     color: white;
     position: absolute;
@@ -271,7 +287,9 @@ header{
     font-family: 'Poppins', sans-serif;
     padding-right: 61px;
     padding: 8px 0 15px;
-
+}
+.follow{
+    padding-right: 61px;
 }
 .btn3{
     text-decoration: none;
